@@ -13,7 +13,7 @@ def home():
     return {
         "project": "NeuralDesk",
         "status": "running",
-        "message": "Welcome to NeuralDesk AI research platform!",
+        "message": "Welcome to NeuralDesk AI research platform",
     }
 
 
